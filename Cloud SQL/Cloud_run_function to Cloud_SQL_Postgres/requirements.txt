@@ -1,0 +1,5 @@
+functions-framework==3.*
+cloud-sql-python-connector
+pg8000
+SQLAlchemy
+google-auth
